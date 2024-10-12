@@ -130,7 +130,7 @@
 ### B类
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- |
-|1|TOPS|ACM Transactions on Privacy and Security ACM|https://dblp.org/db/journals/tissec/index.htm|l| 
+|1|TOPS|ACM Transactions on Privacy and Security |ACM|https://dblp.org/db/journals/tissec/index.htm|| 
 |2||Computers & Security|Elsevier|http://dblp.uni-trier.de/db/journals/compsec/| 
 |3||Designs, Codes and Cryptography|Springer|http://dblp.uni-trier.de/db/journals/dcc/| 
 |4|JCS|Journal of Computer Security |IOS Press|http://dblp.uni-trier.de/db/journals/jcs/| 
@@ -146,7 +146,7 @@
 |6|IJISP|International Journal of Information Security and Privacy IGI|Global|http://dblp.uni-trier.de/db/journals/ijisp/| 
 |7|JISA|Journal of Information Security and Applications|Elsevier|https://dblp.uni-trier.de/db/journals/istr/| 
 |8|SCN|Security and Communication Networks|Wiley|http://dblp.uni-trier.de/db/journals/scn/| 
-|9||Cybersecurity|Springer|https://dblp.uni-|trier.de/db/journals/cybersec/index.html| 
+|9||Cybersecurity|Springer|https://dblp.uni-trier.de/db/journals/cybersec/index.html| 
 
 
 ## 软件工程/系统软件/程序设计语言
@@ -185,7 +185,7 @@
 |6|SOCA|Service Oriented Computing and Applications|Springer|http://dblp.uni-trier.de/db/journals/soca/| 
 |7|SQJ|Software Quality Journal|Springer|http://dblp.uni-trier.de/db/journals/sqj/| 
 |8|TPLP|Theory and Practice of Logic Programming| Cambridge University Press|http://dblp.uni-trier.de/db/journals/tplp/| 
-|9|PACM|PL Proceedings of the ACM on Programming Languages ACM|https://dblp.org/db/journals/pacmpl/index.htm|l| 
+|9|PACM|PL Proceedings of the ACM on Programming Languages ACM|https://dblp.org/db/journals/pacmpl/index.htm|| 
 
 
 ## 数据库/数据挖掘/内容检索
@@ -206,7 +206,7 @@
 |4|DKE|Data & Knowledge Engineering|Elsevier|http://dblp.uni-trier.de/db/journals/dke/| 
 |5|DMKD|Data Mining and Knowledge Discovery|Springer|http://dblp.uni-trier.de/db/journals/datamine/| 
 |6|EJIS|European Journal of Information Systems|Springer|http://dblp.uni-trier.de/db/journals/ejis/| 
-|7||GeoInformatica |Springer|http://dblp.uni-|trier.de/db/journals/geoinformatica/| 
+|7||GeoInformatica |Springer|http://dblp.uni-trier.de/db/journals/geoinformatica/| 
 |8|IPM|Information Processing and Management|Elsevier|http://dblp.uni-trier.de/db/journals/ipm/| 
 |9||Information Sciences|Elsevier|http://dblp.uni-trier.de/db/journals/isci/| 
 |10|IS|Information Systems|Elsevier|http://dblp.uni-trier.de/db/journals/is/| 
@@ -319,76 +319,76 @@
 ### A类
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- |
-|1|AI|Artificial Intelligence|Elsevier|http://dblp.uni-trier.de/db/journals/ai/| 
-|2|TPAMI|IEEE Transactions on Pattern Analysis and MachineIntelligence|IEEE|http://dblp.uni-trier.de/db/journals/pami/| 
-|3|IJCV|International Journal of Computer Vision|Springer|http://dblp.uni-trier.de/db/journals/ijcv/| 
-|4|JMLR|Journal of Machine Learning Research MIT|Press|http://dblp.uni-trier.de/db/journals/jmlr/| 
+|1|AI|Artificial Intelligence|Elsevier|http://dblp.uni-trier.de/db/journals/ai/| Q2 (计算机科学)
+|2|TPAMI|IEEE Transactions on Pattern Analysis and MachineIntelligence|IEEE|http://dblp.uni-trier.de/db/journals/pami/| Q1 (计算机科学)
+|3|IJCV|International Journal of Computer Vision|Springer|http://dblp.uni-trier.de/db/journals/ijcv/| Q2 (计算机科学)
+|4|JMLR|Journal of Machine Learning Research MIT|Press|http://dblp.uni-trier.de/db/journals/jmlr/| Q3 (计算机科学)
 
 ### B类
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- |
-|1|TAP|ACM Transactions on Applied Perception|ACM|http://dblp.uni-trier.de/db/journals/tap/| 
-|3|AAMAS|Autonomous Agents and Multi-Agent Systems|Springer|http://dblp.uni-trier.de/db/journals/aamas/| 
-|4||Computational Linguistics |MIT Press|http://dblp.uni-trier.de/db/journals/coling/| 
-|5|CVIU|Computer Vision and Image Understanding|Elsevier|http://dblp.uni-trier.de/db/journals/cviu/| 
-|6|DKE|Data & Knowledge Engineering|Elsevier|http://dblp.uni-trier.de/db/journals/dke/index.html| 
-|7||Evolutionary Computation |MIT Press|http://dblp.uni-trier.de/db/journals/ec/| 
-|8|TAC|IEEE Transactions on Affective Computing|IEEE|http://dblp.uni-trier.de/db/journals/taffco/| 
+|1|TAP|ACM Transactions on Applied Perception|ACM|http://dblp.uni-trier.de/db/journals/tap/| Q4 (计算机科学)
+|3|AAMAS|Autonomous Agents and Multi-Agent Systems|Springer|http://dblp.uni-trier.de/db/journals/aamas/| Q3 (计算机科学)
+|4||Computational Linguistics |MIT Press|http://dblp.uni-trier.de/db/journals/coling/|Q2 (计算机科学) 
+|5|CVIU|Computer Vision and Image Understanding|Elsevier|http://dblp.uni-trier.de/db/journals/cviu/| Q3 (计算机科学)
+|6|DKE|Data & Knowledge Engineering|Elsevier|http://dblp.uni-trier.de/db/journals/dke/index.html| Q3 (计算机科学)
+|7||Evolutionary Computation |MIT Press|http://dblp.uni-trier.de/db/journals/ec/| Q2 (计算机科学)
+|8|TAC|IEEE Transactions on Affective Computing|IEEE|http://dblp.uni-trier.de/db/journals/taffco/| Q2 (计算机科学)
 |9|TASLP|IEEE/ACM Transactions on Audio, Speech and Language Processing|IEEE|http://dblp.uni-trier.de/db/journals/taslp/| 
-|10||IEEE Transactions on Cybernetics|IEEE|http://dblp.uni-trier.de/db/journals/tcyb/| 
-|11|TEC|IEEE Transactions on Evolutionary Computation|IEEE|http://dblp.uni-trier.de/db/journals/tec/| 
-|12|TFS|IEEE Transactions on Fuzzy Systems|IEEE|http://dblp.uni-trier.de/db/journals/tfs/| 
-|13|TNNLS|IEEE Transactions on Neural Networks and learning systems|IEEE|http://dblp.uni-trier.de/db/journals/tnn/| 
-|14|IJAR|International Journal of Approximate Reasoning|Elsevier|http://dblp.uni-trier.de/db/journals/ijar/| 
-|15|JAIR|Journal of Artificial Intelligence Research|AAAI|http://dblp.uni-trier.de/db/journals/jair/index.html| 
-|16||Journal of Automated Reasoning|Springer|http://dblp.uni-trier.de/db/journals/jar/| 
+|10||IEEE Transactions on Cybernetics|IEEE|http://dblp.uni-trier.de/db/journals/tcyb/| Q1 (计算机科学)
+|11|TEC|IEEE Transactions on Evolutionary Computation|IEEE|http://dblp.uni-trier.de/db/journals/tec/| Q1 (计算机科学)
+|12|TFS|IEEE Transactions on Fuzzy Systems|IEEE|http://dblp.uni-trier.de/db/journals/tfs/| Q1 (计算机科学)
+|13|TNNLS|IEEE Transactions on Neural Networks and learning systems|IEEE|http://dblp.uni-trier.de/db/journals/tnn/| Q1 (计算机科学)
+|14|IJAR|International Journal of Approximate Reasoning|Elsevier|http://dblp.uni-trier.de/db/journals/ijar/| Q3 (计算机科学)
+|15|JAIR|Journal of Artificial Intelligence Research|AAAI|http://dblp.uni-trier.de/db/journals/jair/index.html| Q3 (计算机科学)
+|16||Journal of Automated Reasoning|Springer|http://dblp.uni-trier.de/db/journals/jar/| Q3 (计算机科学)
 |17|JSLHR|Journal of Speech, Language, and Hearing Research |American Speech- Language Hearing Association|http://jslhr.pubs.asha.org/| 
-|18||Machine Learning|Springer|http://dblp.uni-trier.de/db/journals/ml/| 
-|19||Neural Computation |MIT Press|http://dblp.uni-trier.de/db/journals/neco/| 
-|20||Neural Networks|Elsevier|http://dblp.uni-trier.de/db/journals/nn/| 
-|21|PR|Pattern Recognition|Elsevier|http://dblp.uni-trier.de/db/conf/par/| 
-|22|TACL|Transactions of the Association for Computational Linguistics |The Association for Computational Linguistics|https://dblp.org/db/journals/tacl/index.html| 
+|18||Machine Learning|Springer|http://dblp.uni-trier.de/db/journals/ml/| Q3 (计算机科学) 
+|19||Neural Computation |MIT Press|http://dblp.uni-trier.de/db/journals/neco/| Q4 (计算机科学)
+|20||Neural Networks|Elsevier|http://dblp.uni-trier.de/db/journals/nn/| Q1 (计算机科学)
+|21|PR|Pattern Recognition|Elsevier|http://dblp.uni-trier.de/db/conf/par/| Q1 (计算机科学)
+|22|TACL|Transactions of the Association for Computational Linguistics |The Association for Computational Linguistics|https://dblp.org/db/journals/tacl/index.html| Q1 (计算机科学)
 
 ### C类
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- |
-|1|TALLIP|ACM Transactions on Asian and Low- Resource Language Information Processing|ACM|http://dblp.uni-trier.de/db/journals/talip/| 
-|2||Applied Intelligence|Springer|http://dblp.uni-trier.de/db/journals/apin/| 
-|3|AIM|Artificial Intelligence in Medicine|Elsevier|http://dblp.uni-trier.de/db/journals/artmed/| 
-|4||Artificial Life MIT|Press|http://dblp.uni-trier.de/db/journals/alife/| 
-|5||Computational Intelligence|Wiley|http://dblp.uni-trier.de/db/journals/ci/| 
+|1|TALLIP|ACM Transactions on Asian and Low- Resource Language Information Processing|ACM|http://dblp.uni-trier.de/db/journals/talip/| Q4 (计算机科学)
+|2||Applied Intelligence|Springer|http://dblp.uni-trier.de/db/journals/apin/| Q2 (计算机科学)
+|3|AIM|Artificial Intelligence in Medicine|Elsevier|http://dblp.uni-trier.de/db/journals/artmed/| Q2 (医学)
+|4||Artificial Life |MIT Press|http://dblp.uni-trier.de/db/journals/alife/| Q4 (计算机科学)
+|5||Computational Intelligence|Wiley|http://dblp.uni-trier.de/db/journals/ci/| Q4 (计算机科学)
 |6||Computer Speech & Language|Elsevier|http://dblp.uni-trier.de/db/journals/csl/| 
-|7||Connection Science |Taylor & Francis|http://dblp.uni-trier.de/db/journals/connection/| 
-|8|DSS|Decision Support Systems|Elsevier|http://dblp.uni-trier.de/db/journals/dss/| 
-|9|EAAI|Engineering Applications of Artificial Intelligence|Elsevier|http://dblp.uni-trier.de/db/journals/eaai/| 
-|10||Expert Systems|Blackwell/Wiley|http://dblp.uni-trier.de/db/journals/es/| 
-|11|ESWA|Expert Systems with Applications|Elsevier|http://dblp.uni-trier.de/db/journals/eswa/| 
-|12||Fuzzy Sets and Systems|Elsevier|http://dblp.uni-trier.de/db/journals/fss/| 
-|13|TG|IEEE Transactions on Games|IEEE|http://dblp.uni-trier.de/db/journals/tciaig/| 
-|14|IET-CVI|IET Computer Vision|IET|https://dblp.org/db/journals/iet-cvi/index.html| 
-|15||IET Signal Processing|IET|https://dblp.org/db/journals/iet-spr/index.html| 
-|16|IVC|Image and Vision Computing|Elsevier|http://dblp.uni-trier.de/db/journals/ivc/| 
-|17|IDA|Intelligent Data Analysis IOS|Press|http://dblp.uni-trier.de/db/journals/ida/| 
+|7||Connection Science |Taylor & Francis|http://dblp.uni-trier.de/db/journals/connection/| Q4 (计算机科学)
+|8|DSS|Decision Support Systems|Elsevier|http://dblp.uni-trier.de/db/journals/dss/| Q1 (计算机科学)
+|9|EAAI|Engineering Applications of Artificial Intelligence|Elsevier|http://dblp.uni-trier.de/db/journals/eaai/| Q2 (计算机科学)
+|10||Expert Systems|Blackwell/Wiley|http://dblp.uni-trier.de/db/journals/es/| Q4 (计算机科学)
+|11|ESWA|Expert Systems with Applications|Elsevier|http://dblp.uni-trier.de/db/journals/eswa/| Q1 (计算机科学)
+|12||Fuzzy Sets and Systems|Elsevier|http://dblp.uni-trier.de/db/journals/fss/| Q1 (数学)
+|13|TG|IEEE Transactions on Games|IEEE|http://dblp.uni-trier.de/db/journals/tciaig/| Q4 (计算机科学) 
+|14|IET-CVI|IET Computer Vision|IET|https://dblp.org/db/journals/iet-cvi/index.html| Q4 (计算机科学)
+|15||IET Signal Processing|IET|https://dblp.org/db/journals/iet-spr/index.html| Q4 (工程技术)
+|16|IVC|Image and Vision Computing|Elsevier|http://dblp.uni-trier.de/db/journals/ivc/| Q3 (计算机科学) 
+|17|IDA|Intelligent Data Analysis |IOS Press|http://dblp.uni-trier.de/db/journals/ida/| Q4 (计算机科学)
 |18|IJCIA|International Journal of Computational Intelligence and Applications| World Scientific|http://dblp.uni-trier.de/db/journals/ijcia/| 
-|19|IJIS|International Journal of Intelligent Systems|Wiley|http://dblp.uni-trier.de/db/journals/ijis/| 
-|20|IJNS|International Journal of Neural Systems |World Scientific|http://dblp.uni-trier.de/db/journals/ijns/| 
-|21|IJPRAI|International Journal of Pattern Recognition and Artificial Intelligence |World Scientific|http://dblp.uni-trier.de/db/journals/ijprai/| 
-|22|IJUFKS|International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems |World Scientific|https://dblp.uni-trier.de/db/journals/ijufks/| 
-|23|IJDAR|International Journal on Document Analysis and Recognition|Springer|http://dblp.uni-trier.de/db/journals/ijdar/| 
-|24|JETAI|Journal of Experimental and Theoretical Artificial Intelligence |Taylor &Francis|http://dblp.uni-trier.de/db/journals/jetai/| 
-|25|KBS|Knowledge-Based Systems|Elsevier|http://dblp.uni-trier.de/db/journals/kbs/| 
-|26||Machine Translation|Springer|http://dblp.uni-trier.de/db/journals/mt/| 
-|27||Machine Vision and Applications|Springer|http://dblp.uni-trier.de/db/journals/mva/| 
-|28||Natural Computing|Springer|http://dblp.uni-trier.de/db/journals/nc/| 
-|29|NLE|Natural Language Engineering |Cambridge University Press|http://dblp.uni-trier.de/db/journals/nle/| 
-|30|NCA|Neural Computing and Applications|Springer|http://dblp.uni-trier.de/db/journals/nca/| 
-|31|NPL|Neural Processing Letters|Springer|http://dblp.uni-trier.de/db/journals/npl/| 
-|32||Neurocomputing|Elsevier|http://dblp.uni-trier.de/db/journals/ijon/| 
-|33|PAA|Pattern Analysis and Applications|Springer|http://dblp.uni-trier.de/db/journals/paa/| 
-|34|PRL|Pattern Recognition Letters|Elsevier|http://dblp.uni-trier.de/db/journals/prl/| 
-|35||Soft Computing|Springer|http://dblp.uni-trier.de/db/journals/soco/| 
-|36|WI|Web Intelligence |IOS Press|http://dblp.uni-trier.de/db/journals/wias/| 
-|37|TIIS|ACM Transactions on Interactive Intelligent Systems|ACM|https://dblp.org/db/journals/tiis/index.html| 
+|19|IJIS|International Journal of Intelligent Systems|Wiley|http://dblp.uni-trier.de/db/journals/ijis/| Q2 (计算机科学)
+|20|IJNS|International Journal of Neural Systems |World Scientific|http://dblp.uni-trier.de/db/journals/ijns/| Q2 (计算机科学)
+|21|IJPRAI|International Journal of Pattern Recognition and Artificial Intelligence |World Scientific|http://dblp.uni-trier.de/db/journals/ijprai/| Q4 (计算机科学)
+|22|IJUFKS|International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems |World Scientific|https://dblp.uni-trier.de/db/journals/ijufks/| Q4 (计算机科学)
+|23|IJDAR|International Journal on Document Analysis and Recognition|Springer|http://dblp.uni-trier.de/db/journals/ijdar/| Q4 (计算机科学)
+|24|JETAI|Journal of Experimental and Theoretical Artificial Intelligence |Taylor &Francis|http://dblp.uni-trier.de/db/journals/jetai/| Q4 (计算机科学)
+|25|KBS|Knowledge-Based Systems|Elsevier|http://dblp.uni-trier.de/db/journals/kbs/| Q1 (计算机科学)
+|26||Machine Translation|Springer|http://dblp.uni-trier.de/db/journals/mt/| N/A
+|27||Machine Vision and Applications|Springer|http://dblp.uni-trier.de/db/journals/mva/| Q4 (计算机科学)
+|28||Natural Computing|Springer|http://dblp.uni-trier.de/db/journals/nc/| Q4 (计算机科学)
+|29|NLE|Natural Language Engineering |Cambridge University Press|http://dblp.uni-trier.de/db/journals/nle/| Q3 (计算机科学)
+|30|NCA|Neural Computing and Applications|Springer|http://dblp.uni-trier.de/db/journals/nca/| Q3 (计算机科学)
+|31|NPL|Neural Processing Letters|Springer|http://dblp.uni-trier.de/db/journals/npl/| Q4 (计算机科学) 
+|32||Neurocomputing|Elsevier|http://dblp.uni-trier.de/db/journals/ijon/| Q2 (计算机科学, TOP)
+|33|PAA|Pattern Analysis and Applications|Springer|http://dblp.uni-trier.de/db/journals/paa/| Q4 (计算机科学)
+|34|PRL|Pattern Recognition Letters|Elsevier|http://dblp.uni-trier.de/db/journals/prl/| Q3 (计算机科学)
+|35||Soft Computing|Springer|http://dblp.uni-trier.de/db/journals/soco/| Q3 (计算机科学)
+|36|WI|Web Intelligence |IOS Press|http://dblp.uni-trier.de/db/journals/wias/| N/A
+|37|TIIS|ACM Transactions on Interactive Intelligent Systems|ACM|https://dblp.org/db/journals/tiis/index.html| Q4 (计算机科学)
 
 
 ## 人机交互与普适计算
@@ -415,7 +415,7 @@
 |1|BIT|Behaviour & Information Technology |Taylor & Francis|http://dblp.uni-trier.de/db/journals/behaviourIT/| 
 |2|PUC|Personal and Ubiquitous Computing|Springer|http://dblp.uni-trier.de/db/journals/puc/| 
 |3|PMC|Pervasive and Mobile Computing|Elsevier|http://dblp.uni-trier.de/db/journals/percom/| 
-|4|PACMHCI|Proceedings of the ACM on Human- Computer Interaction ACM|https://dblp.org/db/journals/pacmhci/index.ht|ml| 
+|4|PACMHCI|Proceedings of the ACM on Human- Computer Interaction |ACM|https://dblp.org/db/journals/pacmhci/index.html| 
 
 
 ## 交叉/综合/新兴
