@@ -322,7 +322,7 @@
 |1|AI|Artificial Intelligence|Elsevier|[DBLP](http://dblp.uni-trier.de/db/journals/ai/)| Q2 (计算机科学)
 |2|TPAMI|IEEE Transactions on Pattern Analysis and MachineIntelligence|IEEE|[DBLP](http://dblp.uni-trier.de/db/journals/pami/)| Q1 (计算机科学)
 |3|IJCV|International Journal of Computer Vision|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/ijcv/)| Q2 (计算机科学)
-|4|JMLR|Journal of Machine Learning Research MIT|Press|[DBLP](http://dblp.uni-trier.de/db/journals/jmlr/)| Q3 (计算机科学)
+|4|JMLR|Journal of Machine Learning Research |MIT Press|[DBLP](http://dblp.uni-trier.de/db/journals/jmlr/)| Q3 (计算机科学)
 
 ### B类
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | 网址      | 中科院分区 |
