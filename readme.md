@@ -88,9 +88,9 @@
 ### A类 (3个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
- |1|JSAC|IEEE Journal on Selected Areas in Communications|IEEE|0733-8716|[DBLP](http://dblp.uni-trier.de/db/journals/jsac/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76431)| 
- |2|TMC|IEEE Transactions on Mobile Computing|IEEE|1536-1233|[DBLP](http://dblp.uni-trier.de/db/journals/tmc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77159)| 
- |3|TON|IEEE/ACM Transactions on Networking|IEEE/ACM| |[DBLP](http://dblp.uni-trier.de/db/journals/ton/)| 
+ |1|JSAC|IEEE Journal on Selected Areas in Communications|IEEE|0733-8716|[DBLP](http://dblp.uni-trier.de/db/journals/jsac/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76431)| Q1 (计算机科学)
+ |2|TMC|IEEE Transactions on Mobile Computing|IEEE|1536-1233|[DBLP](http://dblp.uni-trier.de/db/journals/tmc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77159)| Q2 (计算机科学)
+ |3|TON|IEEE/ACM Transactions on Networking|IEEE/ACM| |[DBLP](http://dblp.uni-trier.de/db/journals/ton/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/80128)| Q3 (计算机科学)
 
 ### B类 (6个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
