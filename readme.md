@@ -153,10 +153,10 @@
 ### A类
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- |
-|1|TOPLAS|ACM Transactions on Programming Languages and Systems|ACM|[DBLP](http://dblp.uni-trier.de/db/journals/toplas/)| 
-|2|TOSEM|ACM Transactions on Software Engineering and Methodology|ACM|[DBLP](http://dblp.uni-trier.de/db/journals/tosem/)| 
-|3|TSE|IEEE Transactions on Software Engineering|IEEE|[DBLP](http://dblp.uni-trier.de/db/journals/tse/)| 
-|4|TSC|IEEE Transactions on Services Computing|IEEE|[DBLP](http://dblp.uni-trier.de/db/journals/tsc/)| 
+|1|TOPLAS|ACM Transactions on Programming Languages and Systems|ACM|[DBLP](http://dblp.uni-trier.de/db/journals/toplas/)| Q2 (计算机科学)
+|2|TOSEM|ACM Transactions on Software Engineering and Methodology|ACM|[DBLP](http://dblp.uni-trier.de/db/journals/tosem/)| Q2 (计算机科学)
+|3|TSE|IEEE Transactions on Software Engineering|IEEE|[DBLP](http://dblp.uni-trier.de/db/journals/tse/)| Q1 (计算机科学)
+|4|TSC|IEEE Transactions on Services Computing|IEEE|[DBLP](http://dblp.uni-trier.de/db/journals/tsc/)| Q2 (计算机科学)
 
 ### B类
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | 网址      | 中科院分区 |
