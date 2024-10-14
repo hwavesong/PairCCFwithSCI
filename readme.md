@@ -122,30 +122,30 @@
 ### A类 (3个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
- |1|TDSC|IEEE Transactions on Dependable and Secure Computing|IEEE|1545-5971|[DBLP](http://dblp.uni-trier.de/db/journals/tdsc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77302)| 
- |2|TIFS|IEEE Transactions on Information Forensics and Security|IEEE|1556-6013|[DBLP](http://dblp.uni-trier.de/db/journals/tifs/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77451)| 
- |3| |Journal of Cryptology|Springer|0933-2790|[DBLP](http://dblp.uni-trier.de/db/journals/joc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/81657)| 
+ |1|TDSC|IEEE Transactions on Dependable and Secure Computing|IEEE|1545-5971|[DBLP](http://dblp.uni-trier.de/db/journals/tdsc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77302)| Q2 (计算机科学)
+ |2|TIFS|IEEE Transactions on Information Forensics and Security|IEEE|1556-6013|[DBLP](http://dblp.uni-trier.de/db/journals/tifs/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77451)| Q1 (计算机科学)
+ |3| |Journal of Cryptology|Springer|0933-2790|[DBLP](http://dblp.uni-trier.de/db/journals/joc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/81657)| Q3 (计算机科学)
 
 ### B类 (4个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
- |1|TOPS|ACM Transactions on Privacy and Security |ACM|2471-2566|[DBLP](https://dblp.org/db/journals/tissec/index.htm) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/83760)| | 
- |2| |Computers & Security|Elsevier|0167-4048|[DBLP](http://dblp.uni-trier.de/db/journals/compsec/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78046)| 
- |3| |Designs, Codes and Cryptography|Springer| |[DBLP](http://dblp.uni-trier.de/db/journals/dcc/)| 
- |4|JCS|Journal of Computer Security |IOS Press| |[DBLP](http://dblp.uni-trier.de/db/journals/jcs/)| 
+ |1|TOPS|ACM Transactions on Privacy and Security |ACM|2471-2566|[DBLP](https://dblp.org/db/journals/tissec/index.htm) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/83760)| | Q4 (计算机科学)
+ |2| |Computers & Security|Elsevier|0167-4048|[DBLP](http://dblp.uni-trier.de/db/journals/compsec/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78046)| Q1 (计算机科学)
+ |3| |Designs, Codes and Cryptography|Springer| 0925-1022 |[DBLP](http://dblp.uni-trier.de/db/journals/dcc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/86717)| Q2 (数学)
+ |4|JCS|Journal of Computer Security |IOS Press| |[DBLP](http://dblp.uni-trier.de/db/journals/jcs/)| 未收录
 
 ### C类 (9个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
- |1|CLSR|Computer Law & Security Review|Elsevier| |[DBLP](https://dblp.org/db/journals/clsr/index.html)| 
- |2| |EURASIP Journal on Information Security|Springer| |[DBLP](http://dblp.uni-trier.de/db/journals/ejisec/)| 
- |3| |IET Information Security|IET|1751-8709|[DBLP](http://dblp.uni-trier.de/db/journals/iet-ifs/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/87784)| 
- |4|IMCS|Information and Computer Security|Emerald| |[DBLP](http://dblp.uni-trier.de/db/journals/imcs/)| 
- |5|IJICS|International Journal of Information and Computer Security|Inderscience| |[DBLP](http://dblp.uni-trier.de/db/journals/ijics/)| 
- |6|IJISP|International Journal of Information Security and Privacy IGI|Global| |[DBLP](http://dblp.uni-trier.de/db/journals/ijisp/)| 
- |7|JISA|Journal of Information Security and Applications|Elsevier|2214-2126|[DBLP](https://dblp.uni-trier.de/db/journals/istr/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78061)| 
- |8|SCN|Security and Communication Networks|Wiley| |[DBLP](http://dblp.uni-trier.de/db/journals/scn/)| 
- |9| |Cybersecurity|Springer|2523-3246|[DBLP](https://dblp.uni-trier.de/db/journals/cybersec/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/81407)| 
+ |1|CLSR|Computer Law & Security Review|Elsevier| 0267-3649 |[DBLP](https://dblp.org/db/journals/clsr/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/81828)| Q3 (社会学)
+ |2| |EURASIP Journal on Information Security|Springer| |[DBLP](http://dblp.uni-trier.de/db/journals/ejisec/)| 未收录
+ |3| |IET Information Security|IET|1751-8709|[DBLP](http://dblp.uni-trier.de/db/journals/iet-ifs/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/87784)| Q4 (计算机科学)
+ |4|IMCS|Information and Computer Security|Emerald| |[DBLP](http://dblp.uni-trier.de/db/journals/imcs/)| 未收录
+ |5|IJICS|International Journal of Information and Computer Security|Inderscience| |[DBLP](http://dblp.uni-trier.de/db/journals/ijics/)| 未收录
+ |6|IJISP|International Journal of Information Security and Privacy IGI|Global| |[DBLP](http://dblp.uni-trier.de/db/journals/ijisp/)| 未收录
+ |7|JISA|Journal of Information Security and Applications|Elsevier|2214-2126|[DBLP](https://dblp.uni-trier.de/db/journals/istr/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78061)| Q2 (计算机科学)
+ |8|SCN|Security and Communication Networks|Wiley| |[DBLP](http://dblp.uni-trier.de/db/journals/scn/)| 未收录
+ |9| |Cybersecurity|Springer|2523-3246|[DBLP](https://dblp.uni-trier.de/db/journals/cybersec/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/81407)| Q4 (计算机科学)
 
 
 ## 软件工程/系统软件/程序设计语言
