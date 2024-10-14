@@ -161,31 +161,31 @@
 ### B类
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- |
-|1|ASE|Automated Software Engineering|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/ase/)| 
-|2|ESE|Empirical Software Engineering|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/ese/)| 
-|3|IETS|IET Software|IET|[DBLP](https://dblp.uni-trier.de/db/journals/iet-sen/)| 
-|4|IST|Information and Software Technology|Elsevier|[DBLP](http://dblp.uni-trier.de/db/journals/infsof/index.html)| 
-|5|JFP|Journal of Functional Programming| Cambridge University Press|[DBLP](http://dblp.uni-trier.de/db/journals/jfp/)| 
-|6||Journal of Software: Evolution and Process|Wiley|[DBLP](http://dblp.uni-trier.de/db/journals/smr/)| 
-|7|JSS|Journal of Systems and Software|Elsevier|[DBLP](http://dblp.uni-trier.de/db/journals/jss/)| 
-|8|RE|Requirements Engineering|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/re/)| 
-|9|SCP|Science of Computer Programming|Elsevier|[DBLP](http://dblp.uni-trier.de/db/journals/scp/)| 
-|10|SoSyM|Software and Systems Modeling|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/sosym/)| 
-|11|STVR|Software Testing, Verification and Reliability|Wiley|[DBLP](http://dblp.uni-trier.de/db/journals/stvr/index.html)| 
-|12|SPE|Software: Practice and Experience|Wiley|[DBLP](http://dblp.uni-trier.de/db/journals/spe/)| 
+|1|ASE|Automated Software Engineering|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/ase/)| Q2 (计算机科学)
+|2|ESE|Empirical Software Engineering|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/ese/)| Q2 (计算机科学)
+|3|IETS|IET Software|IET|[DBLP](https://dblp.uni-trier.de/db/journals/iet-sen/)| Q4 (计算机科学)
+|4|IST|Information and Software Technology|Elsevier|[DBLP](http://dblp.uni-trier.de/db/journals/infsof/index.html)| Q2 (计算机科学)
+|5|JFP|Journal of Functional Programming| Cambridge University Press|[DBLP](http://dblp.uni-trier.de/db/journals/jfp/)| Q3 (计算机科学)
+|6||Journal of Software: Evolution and Process|Wiley|[DBLP](http://dblp.uni-trier.de/db/journals/smr/)| Q4 (计算机科学)
+|7|JSS|Journal of Systems and Software|Elsevier|[DBLP](http://dblp.uni-trier.de/db/journals/jss/)| Q2 (计算机科学)
+|8|RE|Requirements Engineering|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/re/)| Q3 (计算机科学)
+|9|SCP|Science of Computer Programming|Elsevier|[DBLP](http://dblp.uni-trier.de/db/journals/scp/)| Q4 (计算机科学)
+|10|SoSyM|Software and Systems Modeling|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/sosym/)| Q3 (计算机科学)
+|11|STVR|Software Testing, Verification and Reliability|Wiley|[DBLP](http://dblp.uni-trier.de/db/journals/stvr/index.html)| Q4 (计算机科学)
+|12|SPE|Software: Practice and Experience|Wiley|[DBLP](http://dblp.uni-trier.de/db/journals/spe/)| Q4 (计算机科学)
 
 ### C类
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- |
-|1|CL|Computer Languages, Systems and Structures|Elsevier|[DBLP](http://dblp.uni-trier.de/db/journals/cl/index.html)| 
-|2|IJSEKE|International Journal of Software Engineering and Knowledge Engineering |World Scientific|[DBLP](http://dblp.uni-trier.de/db/journals/ijseke/index.html)| 
-|3|STTT|International Journal of Software Tools for Technology Transfer|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/sttt/)| 
-|4|JLAMP|Journal of Logical and Algebraic Methods in Programming|Elsevier|[DBLP](https://dblp.uni-trier.de/db/journals/jlap/index.html)| 
-|5|JWE|Journal of Web Engineering |Rinton Press|[DBLP](http://dblp.uni-trier.de/db/journals/jwe/)| 
-|6|SOCA|Service Oriented Computing and Applications|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/soca/)| 
-|7|SQJ|Software Quality Journal|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/sqj/)| 
-|8|TPLP|Theory and Practice of Logic Programming| Cambridge University Press|[DBLP](http://dblp.uni-trier.de/db/journals/tplp/)| 
-|9|PACM|PL Proceedings of the ACM on Programming Languages ACM|[DBLP](https://dblp.org/db/journals/pacmpl/index.htm)|| 
+|1|CL|Computer Languages, Systems and Structures|Elsevier|[DBLP](http://dblp.uni-trier.de/db/journals/cl/index.html)| 未收录
+|2|IJSEKE|International Journal of Software Engineering and Knowledge Engineering |World Scientific|[DBLP](http://dblp.uni-trier.de/db/journals/ijseke/index.html)| Q4 (计算机科学)
+|3|STTT|International Journal of Software Tools for Technology Transfer|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/sttt/)| Q3 (计算机科学)
+|4|JLAMP|Journal of Logical and Algebraic Methods in Programming|Elsevier|[DBLP](https://dblp.uni-trier.de/db/journals/jlap/index.html)| Q4 (计算机科学)
+|5|JWE|Journal of Web Engineering |Rinton Press|[DBLP](http://dblp.uni-trier.de/db/journals/jwe/)| Q4 (计算机科学)
+|6|SOCA|Service Oriented Computing and Applications|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/soca/)| 未收录
+|7|SQJ|Software Quality Journal|Springer|[DBLP](http://dblp.uni-trier.de/db/journals/sqj/)| Q3 (计算机科学)
+|8|TPLP|Theory and Practice of Logic Programming| Cambridge University Press|[DBLP](http://dblp.uni-trier.de/db/journals/tplp/)| Q2 (数学)
+|9|PACM|PL Proceedings of the ACM on Programming Languages|ACM|[DBLP](https://dblp.org/db/journals/pacmpl/index.htm)| 未收录
 
 
 ## 数据库/数据挖掘/内容检索
