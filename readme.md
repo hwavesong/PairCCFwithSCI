@@ -191,46 +191,46 @@
 ### A类 (4个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
- |1|TODS|ACM Transactions on Database Systems|ACM|0362-5915|[DBLP](http://dblp.uni-trier.de/db/journals/tods/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/85837)| 
- |2|TOIS|ACM Transactions on Information Systems|ACM|1046-8188|[DBLP](http://dblp.uni-trier.de/db/journals/tois/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78042)| 
- |3|TKDE|IEEE Transactions on Knowledge and Data Engineering|IEEE|1041-4347|[DBLP](http://dblp.uni-trier.de/db/journals/tkde/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76947)| 
- |4|VLDBJ|The VLDB Journal|Springer| |[DBLP](http://dblp.uni-trier.de/db/journals/vldb/)| 
+ |1|TODS|ACM Transactions on Database Systems|ACM|0362-5915|[DBLP](http://dblp.uni-trier.de/db/journals/tods/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/85837)| Q2 (计算机科学) 
+ |2|TOIS|ACM Transactions on Information Systems|ACM|1046-8188|[DBLP](http://dblp.uni-trier.de/db/journals/tois/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78042)| Q2 (计算机科学)
+ |3|TKDE|IEEE Transactions on Knowledge and Data Engineering|IEEE|1041-4347|[DBLP](http://dblp.uni-trier.de/db/journals/tkde/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76947)| Q2 (计算机科学)
+ |4|VLDBJ|The VLDB Journal|Springer| |[DBLP](http://dblp.uni-trier.de/db/journals/vldb/)| 未收录
 
 ### B类 (13个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
- |1|TKDD|ACM Transactions on Knowledge Discovery from Data|ACM|1556-4681|[DBLP](http://dblp.uni-trier.de/db/journals/tkdd/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79215)| 
- |2|TWEB|ACM Transactions on the Web|ACM|1559-1131|[DBLP](http://dblp.uni-trier.de/db/journals/tweb/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/80495)| 
- |3|AEI|Advanced Engineering Informatics|Elsevier|1474-0346|[DBLP](http://dblp.uni-trier.de/db/journals/aei/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76970)| 
- |4|DKE|Data & Knowledge Engineering|Elsevier|0169-023X|[DBLP](http://dblp.uni-trier.de/db/journals/dke/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/83289)| 
- |5|DMKD|Data Mining and Knowledge Discovery|Springer|1384-5810|[DBLP](http://dblp.uni-trier.de/db/journals/datamine/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78740)| 
- |6|EJIS|European Journal of Information Systems|Springer| |[DBLP](http://dblp.uni-trier.de/db/journals/ejis/)| 
- |7| |GeoInformatica |Springer|1384-6175|[DBLP](http://dblp.uni-trier.de/db/journals/geoinformatica/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/84938)| 
- |8|IPM|Information Processing and Management|Elsevier| |[DBLP](http://dblp.uni-trier.de/db/journals/ipm/)| 
- |9| |Information Sciences|Elsevier|0020-0255|[DBLP](http://dblp.uni-trier.de/db/journals/isci/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77110)| 
- |10|IS|Information Systems|Elsevier|0306-4379|[DBLP](http://dblp.uni-trier.de/db/journals/is/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/80130)| 
- |11|JASIST|Journal of the Association for Information Science and Technology|Wiley| |[DBLP](http://dblp.uni-trier.de/db/journals/jasis/)| 
- |12|JWS|Journal of Web Semantics|Elsevier|1570-8268|[DBLP](http://dblp.uni-trier.de/db/journals/ws/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/83155)| 
- |13|KAIS|Knowledge and Information Systems|Springer|0219-1377|[DBLP](http://dblp.uni-trier.de/db/journals/kais/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/82601)| 
+ |1|TKDD|ACM Transactions on Knowledge Discovery from Data|ACM|1556-4681|[DBLP](http://dblp.uni-trier.de/db/journals/tkdd/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79215)| Q3 (计算机科学)
+ |2|TWEB|ACM Transactions on the Web|ACM|1559-1131|[DBLP](http://dblp.uni-trier.de/db/journals/tweb/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/80495)| Q4 (计算机科学)
+ |3|AEI|Advanced Engineering Informatics|Elsevier|1474-0346|[DBLP](http://dblp.uni-trier.de/db/journals/aei/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76970)| Q1 (计算机科学)
+ |4|DKE|Data & Knowledge Engineering|Elsevier|0169-023X|[DBLP](http://dblp.uni-trier.de/db/journals/dke/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/83289)| Q3 (计算机科学)
+ |5|DMKD|Data Mining and Knowledge Discovery|Springer|1384-5810|[DBLP](http://dblp.uni-trier.de/db/journals/datamine/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78740)| Q3 (计算机科学)
+ |6|EJIS|European Journal of Information Systems|Springer| 0960-085X |[DBLP](http://dblp.uni-trier.de/db/journals/ejis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76867)| Q2 (管理学)
+ |7| |GeoInformatica |Springer|1384-6175|[DBLP](http://dblp.uni-trier.de/db/journals/geoinformatica/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/84938)| Q4 (计算机科学)
+ |8|IPM|Information Processing and Management|Elsevier| |[DBLP](http://dblp.uni-trier.de/db/journals/ipm/)| 未收录
+ |9| |Information Sciences|Elsevier|0020-0255|[DBLP](http://dblp.uni-trier.de/db/journals/isci/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77110)| Q1 (计算机科学)
+ |10|IS|Information Systems|Elsevier|0306-4379|[DBLP](http://dblp.uni-trier.de/db/journals/is/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/80130)| Q2 (计算机科学)
+ |11|JASIST|Journal of the Association for Information Science and Technology|Wiley| 2330-1635 |[DBLP](http://dblp.uni-trier.de/db/journals/jasis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/80568)| Q2 (管理学)
+ |12|JWS|Journal of Web Semantics|Elsevier|1570-8268|[DBLP](http://dblp.uni-trier.de/db/journals/ws/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/83155)| Q3 (计算机科学)
+ |13|KAIS|Knowledge and Information Systems|Springer|0219-1377|[DBLP](http://dblp.uni-trier.de/db/journals/kais/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/82601)| Q4 (计算机科学)
 
 ### C类 (15个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
- |1|DPD|Distributed and Parallel Databases|Springer|0926-8782|[DBLP](http://dblp.uni-trier.de/db/journals/dpd/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/88783)| 
- |2|I&M|Information & Management|Elsevier| |[DBLP](http://dblp.uni-trier.de/db/journals/iam/)| 
- |3|IPL|Information Processing Letters|Elsevier|0020-0190|[DBLP](http://dblp.uni-trier.de/db/journals/ipl/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/92881)| 
- |4|IR|Information Retrieval Journal|Springer|1386-4564|[DBLP](http://dblp.uni-trier.de/db/journals/ir/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/83207)| 
- |5|IJCIS|International Journal of Cooperative Information Systems |World Scientific|0218-8430|[DBLP](http://dblp.uni-trier.de/db/journals/ijcis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/87475)| 
- |6|IJGIS|International Journal of Geographical Information Science |Taylor & Francis| |[DBLP](http://dblp.uni-trier.de/db/journals/gis/)| 
- |7|IJIS|International Journal of Intelligent Systems|Wiley|0884-8173|[DBLP](http://dblp.uni-trier.de/db/journals/ijis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77404)| 
- |8|IJKM|International Journal of Knowledge Management|IGI| |[DBLP](http://dblp.uni-trier.de/db/journals/ijkm/)| 
- |9|IJSWIS|International Journal on Semantic Web and Information Systems|IGI|1552-6283|[DBLP](http://dblp.uni-trier.de/db/journals/ijswis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/81295)| 
- |10|JCIS|Journal of Computer Information Systems|IACIS| |[DBLP](http://dblp.uni-trier.de/db/journals/jcis/)| 
- |11|JDM|Journal of Database Management|IGI-Global|1063-8016|[DBLP](http://dblp.uni-trier.de/db/journals/jdm/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/82896)| 
- |12|JGITM|Journal of Global Information Technology Management Ivy League|Publishing| |[DBLP](https://dblp.org/db/journals/jgim/index.html)| 
- |13|JIIS|Journal of Intelligent Information Systems|Springer|0925-9902|[DBLP](http://dblp.uni-trier.de/db/journals/jiis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/80815)| 
- |14|JSIS|The Journal of Strategic Information Systems|Elsevier| |[DBLP](http://dblp.uni-trier.de/db/journals/jsis/)| 
- |15|DSE|Data Science and Engineering|CCF|2364-1185|[DBLP](https://dblp.org/db/journals/dase/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79355)| 
+ |1|DPD|Distributed and Parallel Databases|Springer|0926-8782|[DBLP](http://dblp.uni-trier.de/db/journals/dpd/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/88783)| Q4 (计算机科学)
+ |2|I&M|Information & Management|Elsevier| 0378-7206 |[DBLP](http://dblp.uni-trier.de/db/journals/iam/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76806)| Q2 (管理学)
+ |3|IPL|Information Processing Letters|Elsevier|0020-0190|[DBLP](http://dblp.uni-trier.de/db/journals/ipl/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/92881)| Q4 (计算机科学)
+ |4|IR|Information Retrieval Journal|Springer|1386-4564|[DBLP](http://dblp.uni-trier.de/db/journals/ir/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/83207)| Q3 (计算机科学)
+ |5|IJCIS|International Journal of Cooperative Information Systems |World Scientific|0218-8430|[DBLP](http://dblp.uni-trier.de/db/journals/ijcis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/87475)| Q4 (计算机科学)
+ |6|IJGIS|International Journal of Geographical Information Science |Taylor & Francis| 1365-8816 |[DBLP](http://dblp.uni-trier.de/db/journals/gis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77986)| Q1 (地球科学)
+ |7|IJIS|International Journal of Intelligent Systems|Wiley|0884-8173|[DBLP](http://dblp.uni-trier.de/db/journals/ijis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77404)| Q2 (计算机科学)
+ |8|IJKM|International Journal of Knowledge Management|IGI| |[DBLP](http://dblp.uni-trier.de/db/journals/ijkm/)| 未收录
+ |9|IJSWIS|International Journal on Semantic Web and Information Systems|IGI|1552-6283|[DBLP](http://dblp.uni-trier.de/db/journals/ijswis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/81295)| Q4 (计算机科学)
+ |10|JCIS|Journal of Computer Information Systems|IACIS| 0887-4417 |[DBLP](http://dblp.uni-trier.de/db/journals/jcis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/82217)| Q4 (管理学)
+ |11|JDM|Journal of Database Management|IGI-Global|1063-8016|[DBLP](http://dblp.uni-trier.de/db/journals/jdm/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/82896)| Q4 (计算机科学)
+ |12|JGITM|Journal of Global Information Technology Management |Ivy League Publishing| 1097-198X |[DBLP](https://dblp.org/db/journals/jgim/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/84967)| Q4 (管理学)
+ |13|JIIS|Journal of Intelligent Information Systems|Springer|0925-9902|[DBLP](http://dblp.uni-trier.de/db/journals/jiis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/80815)| Q3 (计算机科学)
+ |14|JSIS|The Journal of Strategic Information Systems|Elsevier| 0963-8687 |[DBLP](http://dblp.uni-trier.de/db/journals/jsis/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77385)| Q2 (管理学)
+ |15|DSE|Data Science and Engineering|CCF|2364-1185|[DBLP](https://dblp.org/db/journals/dase/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79355)| Q2 (计算机科学)
 
 
 ## 计算机科学理论
