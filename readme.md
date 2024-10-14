@@ -95,27 +95,27 @@
 ### B类 (6个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
- |1|TOIT|ACM Transactions on Internet Technology|ACM|1533-5399|[DBLP](http://dblp.uni-trier.de/db/journals/toit/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78256)| 
- |2|TOMM|ACM Transactions on Multimedia Computing, Communications and Applications|ACM| |[DBLP](http://dblp.uni-trier.de/db/journals/tomccap/)| 
- |3|TOSN|ACM Transactions on Sensor Networks|ACM|1550-4859|[DBLP](http://dblp.uni-trier.de/db/journals/tosn/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79505)| 
- |4|CN|Computer Networks|Elsevier|1389-1286|[DBLP](http://dblp.uni-trier.de/db/journals/cn/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78055)| 
- |5|TCOM|IEEE Transactions on Communications|IEEE|0090-6778|[DBLP](http://dblp.uni-trier.de/db/journals/tcom/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77062)| 
- |6|TWC|IEEE Transactions on Wireless Communications|IEEE|1536-1276|[DBLP](http://dblp.uni-trier.de/db/journals/twc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76758)| 
+ |1|TOIT|ACM Transactions on Internet Technology|ACM|1533-5399|[DBLP](http://dblp.uni-trier.de/db/journals/toit/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78256)| Q3 (计算机科学)
+ |2|TOMM|ACM Transactions on Multimedia Computing, Communications and Applications|ACM| 1551-6857 |[DBLP](http://dblp.uni-trier.de/db/journals/tomccap/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78417)| Q3 (计算机科学)
+ |3|TOSN|ACM Transactions on Sensor Networks|ACM|1550-4859|[DBLP](http://dblp.uni-trier.de/db/journals/tosn/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79505)| Q4 (计算机科学)
+ |4|CN|Computer Networks|Elsevier|1389-1286|[DBLP](http://dblp.uni-trier.de/db/journals/cn/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78055)| Q2 (计算机科学)
+ |5|TCOM|IEEE Transactions on Communications|IEEE|0090-6778|[DBLP](http://dblp.uni-trier.de/db/journals/tcom/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77062)| Q2 (计算机科学)
+ |6|TWC|IEEE Transactions on Wireless Communications|IEEE|1536-1276|[DBLP](http://dblp.uni-trier.de/db/journals/twc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76758)| Q1 (计算机科学)
 
 ### C类 (11个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
- |1| |Ad Hoc Networks|Elsevier|1570-8705|[DBLP](http://dblp.uni-trier.de/db/journals/adhoc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78696)| 
- |2|CC|Computer Communications|Elsevier|0140-3664|[DBLP](http://dblp.uni-trier.de/db/journals/comcom/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77824)| 
- |3|TNSM|IEEE Transactions on Network and Service Management|IEEE|1932-4537|[DBLP](http://dblp.uni-trier.de/db/journals/tnsm/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78270)| 
- |4| |IET Communications|IET|1751-8628|[DBLP](http://dblp.uni-trier.de/db/journals/iet-com/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/86916)| 
- |5|JNCA|Journal of Network and Computer Applications|Elsevier|1084-8045|[DBLP](http://dblp.uni-trier.de/db/journals/jnca/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76996)| 
- |6|MONET|Mobile Networks and Applications|Springer| |[DBLP](http://dblp.uni-trier.de/db/journals/monet/)| 
- |7| |Networks |Wiley|0028-3045|[DBLP](http://dblp.uni-trier.de/db/journals/networks/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/84743)| 
- |8|PPNA|Peer-to-Peer Networking and Applications|Springer|1936-6442|[DBLP](http://dblp.uni-trier.de/db/journals/ppna/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79371)| 
- |9|WCMC|Wireless Communications and Mobile Computing|Wiley| |[DBLP](http://dblp.uni-trier.de/db/journals/wicomm/)| 
- |10| |Wireless Networks|Springer|1022-0038|[DBLP](http://dblp.uni-trier.de/db/journals/winet/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/81710)| 
- |11|IOT|IEEE Internet of Things Journal|IEEE|2327-4662|[DBLP](https://dblp.org/db/journals/iotj/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76730)| 
+ |1| |Ad Hoc Networks|Elsevier|1570-8705|[DBLP](http://dblp.uni-trier.de/db/journals/adhoc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78696)| Q3 (计算机科学)
+ |2|CC|Computer Communications|Elsevier|0140-3664|[DBLP](http://dblp.uni-trier.de/db/journals/comcom/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77824)| Q3 (计算机科学)
+ |3|TNSM|IEEE Transactions on Network and Service Management|IEEE|1932-4537|[DBLP](http://dblp.uni-trier.de/db/journals/tnsm/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78270)| Q2 (计算机科学)
+ |4| |IET Communications|IET|1751-8628|[DBLP](http://dblp.uni-trier.de/db/journals/iet-com/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/86916)| Q4 (计算机科学)
+ |5|JNCA|Journal of Network and Computer Applications|Elsevier|1084-8045|[DBLP](http://dblp.uni-trier.de/db/journals/jnca/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76996)| Q2 (计算机科学)
+ |6|MONET|Mobile Networks and Applications|Springer| |[DBLP](http://dblp.uni-trier.de/db/journals/monet/)| 未收录
+ |7| |Networks |Wiley|0028-3045|[DBLP](http://dblp.uni-trier.de/db/journals/networks/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/84743)| Q4 (计算机科学)
+ |8|PPNA|Peer-to-Peer Networking and Applications|Springer|1936-6442|[DBLP](http://dblp.uni-trier.de/db/journals/ppna/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79371)| Q4 (计算机科学)
+ |9|WCMC|Wireless Communications and Mobile Computing|Wiley| |[DBLP](http://dblp.uni-trier.de/db/journals/wicomm/)| 未收录
+ |10| |Wireless Networks|Springer|1022-0038|[DBLP](http://dblp.uni-trier.de/db/journals/winet/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/81710)| Q4 (计算机科学)
+ |11|IOT|IEEE Internet of Things Journal|IEEE|2327-4662|[DBLP](https://dblp.org/db/journals/iotj/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/76730)| Q1 (计算机科学)
 
 
 ## 网络与信息安全
